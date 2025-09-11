@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard&family=Monoton&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Story+Script&display=swap');
+body{
+    background-color: #95e8ed;
+}
+
+header{
+    font-size: 30px;
+    color: #55246b;
+    font-family: "Monoton", sans-serif;
+}
+
+.logo{
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 15%;
+    display: flex;
+    margin: 0% auto;
+ 
+}
+
+.navbar h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Michroma", sans-serif;
+    margin-top: 5%;
+}
+
+.navbar h2{
+    color: #253536;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Michroma", sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+    font-size: 25px;
+    justify-content: flex-end;
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+    margin-right: 40%;
+
+}
+
+
+
+
+
+.relatorio{
+    width: 20px;
+}
+
+.seção img{
+    width: 40%;
+    padding: 20px;
+    border: 100px solid black;
+    border-radius: 10px;
+    margin: 5%;
+    background-color: black;
+    
+
+}
+
+
+footer{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+
+.seção section{
+    font-family: "Roboto", sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 40px;
+}
+
+.navbar button{
+    color: #55246b;
+    border-radius: 15px;
+    border: white;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    margin: 20px auto;
+    display: block;
+    font-family: "Roboto", sans-serif;
+    margin-top: 3%;
+}
+
+#id inicio{
+    border:5px red;
+}
+
